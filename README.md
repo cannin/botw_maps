@@ -9,7 +9,7 @@ A quick script to plot BOTW game location visits on a map image. The final image
 # Run 
 Change visitedWorksheet and locationWorksheet if you want to see something other than fountains. NOTE: You may or may not need to save the botw_maps spreadsheet to your own Google account to work; not sure.  
 
-  source("plotVisits.R")
+    source("plotVisits.R")
 
 # Example (Fountains)
 
